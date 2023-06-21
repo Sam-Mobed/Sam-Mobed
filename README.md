@@ -35,10 +35,11 @@ Currently, I am working as a High Performance Computing intern, where I do scrip
 <img align="left" alt="kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <br>
 
+<!-- Comment out this section for now, the stat is fine but not yet impressive enough
 ## My stats 🏆
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-mobed&show_icons=true&theme=gruvbox)
-
+-->
 ## My interests 🎸
 
 Besides computer science, I'm into cinematography, gaming, politics, philosophy and music. I'm very much into arts, and I used to be decent at drawing. Unfortunately, I stopped that a few years ago, but it would be nice to start again. 
