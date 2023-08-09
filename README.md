@@ -1,7 +1,7 @@
 <h1 align="center"><b>Sam Mobed 🏂🏽 </b></h1>
 
-### Digital Alchemist ⚗️🧪
-**`Student/Developer/Dreamer`**
+### Let me cook ⚗️🧪
+**`Student/Developer/Artist`**
 
 Welcome to my Github. This is where I keep my projects and try to make my contribution calendar as green as possible. Allow me to introduce myself 🧑🏽
 
@@ -11,9 +11,9 @@ Currently, I am working as a High Performance Computing intern, where I do scrip
 
 ## Goals 🧗🏼
 
-- As of now, I'm learning C# and ASP.NET. I'd like to sharpen my skills as a full-stack developer and then move on to other fields in computer science.
-- In a few weeks, I want to start learning Go and Rust, as they're two very important languages that I haven't used yet. Doing a project for each would be nice to get familiar with them.
-- Once that's done, machine learning is my next goal; to ensure a strong foundation, I'll first go back to probability and linear algebra as they're the building blocks for advanced topics like ML.
+- As of now, my first priority is to sharpen my skills through Leetcode problems.
+- I've been learning Go for a few weeks now, and I aim to use this knowledge to build a microservices server. The goal of this project is not only to learn the important features of Go (like its concurrency models), but also apply the software design patterns that I have been learning through my coursework.
+- Once that's done, machine learning is my next goal; to ensure a strong foundation, I'll first go back to probability and linear algebra as they're the building blocks for advanced topics like Deep Learning.
 
 ## Languages and Tools 🛠
 
@@ -25,14 +25,14 @@ Currently, I am working as a High Performance Computing intern, where I do scrip
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="c" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="c-sharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="net-core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+<img align="left" alt="c++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="go" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-<img align="left" alt="kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
+<img align="left" alt="express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img align="left" alt="nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <br>
 
 <!-- Comment out this section for now, the stat is fine but not yet impressive enough
@@ -48,7 +48,9 @@ Besides computer science, I'm into cinematography, gaming, politics, philosophy 
 
 - My email: sammobed1@gmail.com
 - My linkedin: https://www.linkedin.com/in/sam-mobed-541332212/
+- My personal website: https://sammobed.vercel.app/
 - My number: send me an email and you'll get it 😅
+<p>You can also find my CV on my personal website, in case you're interested.</p>
 <p>Don't hesitate to reach out 🪩</p>
 
 
