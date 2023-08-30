@@ -7,7 +7,6 @@ Welcome to my Github. This is where I keep my projects and try to make my contri
 
 ## What I do 👨🏽‍💻
 <p>I'm a Computer Science major at McGill University. I'm also doing a minor in Statistics to keep myself well-rounded. I have about three semesters left, but I am considering the option of getting a Master's degree.</p>
-Currently, I am working as a High Performance Computing intern, where I do scripting for supercomputers. In this role, I use technologies like the ELK stack to automate monitoring and maintenance tasks for hundreds of nodes across various clusters.
 
 ## Goals 🧗🏼
 
