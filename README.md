@@ -1,18 +1,12 @@
 <h1 align="center"><b>Sam Mobed 🏂🏽 </b></h1>
 
-### Let me cook ⚗️🧪
-**`Student/Developer/Artist`**
+### Cooking... ⚗️🧪
+**`Student/Developer`**
 
-Welcome to my Github. This is where I keep my projects and try to make my contribution calendar as green as possible. Allow me to introduce myself 🧑🏽
+Welcome to my Github. This is where I keep my projects and try to make my contribution calendar as green as possible. 🧑🏽
 
 ## What I do 👨🏽‍💻
-<p>I'm a Computer Science major at McGill University. I'm also doing a minor in Statistics to keep myself well-rounded. I have about three semesters left, but I am considering the option of getting a Master's degree.</p>
-
-## Goals 🧗🏼
-
-- As of now, my first priority is to sharpen my skills through Leetcode problems.
-- I've been learning Go for a few weeks now, and I aim to use this knowledge to build a microservices server. The goal of this project is not only to learn the important features of Go (like its concurrency models), but also apply the software design patterns that I have been learning through my coursework.
-- Once that's done, machine learning is my next goal; to ensure a strong foundation, I'll first go back to probability and linear algebra as they're the building blocks for advanced topics like Deep Learning.
+<p>I'm a Computer Science major at McGill University. I'm also doing a minor in Statistics to keep myself well-rounded. I have about one semester left, and I can't wait to graduate.</p>
 
 ## Languages and Tools 🛠
 
@@ -47,10 +41,9 @@ Besides computer science, I'm into cinematography, gaming, politics, philosophy 
 
 - My email: sammobed1@gmail.com
 - My linkedin: https://www.linkedin.com/in/sam-mobed-541332212/
-- My personal website: https://sammobed.vercel.app/
-- My number: send me an email and you'll get it 😅
-<p>You can also find my CV on my personal website, in case you're interested.</p>
-<p>Don't hesitate to reach out 🪩</p>
+- My personal website: https://sammobed.vercel.app/ (There's some outdated info, I need to update it)
+<p>You can also find my CV on my personal website, in case you're interested. (It's also outdated, I'll post a fresh one when I get the time)</p>
+<p>Don't hesitate to reach out ;)</p>
 
 
 <div align="center" >
