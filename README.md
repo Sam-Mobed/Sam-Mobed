@@ -41,7 +41,7 @@ Besides computer science, I'm into cinematography, gaming, politics, philosophy 
 
 - My email: sammobed1@gmail.com
 - My linkedin: https://www.linkedin.com/in/sam-mobed-541332212/
-- My personal website: https://sammobed.vercel.app/ (There's some outdated info, I need to update it)
+- My personal website: https://sammobed.vercel.app/
 <p>You can also find my CV on my personal website, in case you're interested. (It's also outdated, I'll post a fresh one when I get the time)</p>
 <p>Don't hesitate to reach out ;)</p>
 
